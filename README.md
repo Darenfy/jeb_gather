@@ -1,9 +1,11 @@
 # jeb_gather
 
 ## 简介
-``JEB`` 参考文档：https://www.pnfsoftware.com/jeb/manual-3/
+``JEB`` 参考文档: https://www.pnfsoftware.com/jeb/manual-3/
 
-JEB 破解版下载链接：https://down.52pojie.cn/Tools/Android_Tools/
+JEB 破解版下载链接: https://down.52pojie.cn/Tools/Android_Tools/
+
+JEB 3.0版本下载: https://pan.baidu.com/s/1mx8NQMddVSTb3GTKIed8nw 提取码: fdiy
 
 以下均以分析 ``APK`` 文件为例，平台为 ``macOS``
 ### 通用操作
