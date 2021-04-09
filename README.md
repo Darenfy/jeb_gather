@@ -102,5 +102,8 @@ https://github.com/LeadroyaL/JebScript
 > ``GotoClass``  便捷跳转  
 > ``FastXposed/FastFrida`` 方便生成 ``Xposed`` 和 ``Frida`` 代码  
 
-https://github.com/acbocai/jeb_script
+https://github.com/acbocai/jeb_script  
 一些常用的基础代码分析操作,可用于反混淆/路径分析/代码定位等
+
+https://github.com/Hamz-a/jeb2frida  
+使用 ``JEB`` 自动化生成 ``Frida hook`` 脚本，应用方法为 apk 字符串未经混淆时，对特定字符串进行查询并获取所属类信息
