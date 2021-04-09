@@ -102,3 +102,5 @@ https://github.com/LeadroyaL/JebScript
 > ``GotoClass``  便捷跳转  
 > ``FastXposed/FastFrida`` 方便生成 ``Xposed`` 和 ``Frida`` 代码  
 
+https://github.com/acbocai/jeb_script
+一些常用的基础代码分析操作,可用于反混淆/路径分析/代码定位等
