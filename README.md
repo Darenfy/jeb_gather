@@ -97,4 +97,8 @@ JEB 存在脚本允许用户创建自己的类型库
 **使用 JEB API 访问**  
 本地类型像 ``JEB`` 的其他组件一样都可以通过 ``API`` 访问，脚本和插件可以使用 API 以编程方式获取、定义、使用类型，操作类型库
 
+### 脚本  
+https://github.com/LeadroyaL/JebScript  
+> ``GotoClass``  便捷跳转  
+> ``FastXposed/FastFrida`` 方便生成 ``Xposed`` 和 ``Frida`` 代码  
 
